@@ -21,12 +21,12 @@ body {
 
 .banner-wrap {
   /* feel free to use your own img  */
-  background-image: url(./assets/IMG-20230420-WA0067.jpg);
+  background-image: url(./assets/IMG-20230420-WA0050.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   position: relative;
-  z-index: 1;
+  z-index: 3;
 }
 .overlay {
   z-index: -1;
